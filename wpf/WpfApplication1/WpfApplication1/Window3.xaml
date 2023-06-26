@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfApplication1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window3" Height="673" Width="525">
+    <Grid>
+        <Image Stretch="Fill" Source="imgs/go.bmp"/>
+        <TextBlock HorizontalAlignment="Left" Margin="246,169,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="57" Width="223" MouseLeftButtonDown="TextBlock_MouseLeftButtonDown_1"/>
+
+
+    </Grid>
+</Window>

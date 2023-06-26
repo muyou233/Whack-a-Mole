@@ -1,0 +1,66 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Images1\field.jpg
+D:\wpf\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\wpf\WpfApplication1\WpfApplication1\bin\Debug\Images1\field.jpg
+D:\wpf\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\wpf\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\wpf\WpfApplication1\WpfApplication1\bin\Debug\imgs\111.cur
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\Dictionary1.baml
+D:\wpf\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\bin\Debug\Images1\field.jpg
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\bin\Debug\imgs\111.cur
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\Dictionary1.baml
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\bin\Debug\Images1\mouse.jpg
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+C:\Users\Administrator\Desktop\wpf\wpf\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
